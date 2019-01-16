@@ -1,2 +1,2 @@
 # mosquitoes
-Useful mosquito info. page
+Useful mosquito info. repository
