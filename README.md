@@ -1,3 +1,3 @@
-# Mosquitoes
+## Mosquitoes
 
-Useful mosquito info. repository
+Useful mosquito, and malaria (*Plasmodium*) info. repository
