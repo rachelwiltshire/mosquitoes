@@ -7,6 +7,5 @@
 
 
 Although not mosquito-based, the Methods in Malaria Research Manual is nevertheless a useful reference tool:
-
 **MR4 Methods in Malaria Research Manual (2013)** (6th ed.)
 *https://www.beiresources.org/portals/2/MR4/Methods_In_Malaria_Research-6th_edition.pdf*
